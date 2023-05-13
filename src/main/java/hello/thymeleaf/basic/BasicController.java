@@ -135,7 +135,6 @@ public class BasicController {
         }
     }
 
-
     @Data
     static class User {
         private String username;
